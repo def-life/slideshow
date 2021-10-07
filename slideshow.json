@@ -1,0 +1,6 @@
+{"items":[
+    {"title": "Bullhorn Item", "img": "bullhorn-lg.png", "msg":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusantium laudantium, assumenda natus porro repellat fugiat numquam ea accusamus itaque quo, adipisci quis in voluptatem, perferendis eligendi ipsa animi nisi."},
+    {"title": "Calendar Item", "img": "calendar-lg.png", "msg":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusantium laudantium, assumenda natus porro repellat fugiat numquam ea accusamus itaque quo, adipisci quis in voluptatem, perferendis eligendi ipsa animi nisi."},
+    {"title": "Phone Item", "img": "iphone-lg.png", "msg":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusantium laudantium, assumenda natus porro repellat fugiat numquam ea accusamus itaque quo, adipisci quis in voluptatem, perferendis eligendi ipsa animi nisi."},
+    {"title": "Cog Item", "img": "cog-lg.png", "msg":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusantium laudantium, assumenda natus porro repellat fugiat numquam ea accusamus itaque quo, adipisci quis in voluptatem, perferendis eligendi ipsa animi nisi."}
+]}
